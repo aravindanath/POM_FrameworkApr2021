@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="51283" started-at="2021-04-25T12:07:35 IST" finished-at="2021-04-25T12:08:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51283" started-at="2021-04-25T12:07:35 IST" finished-at="2021-04-25T12:08:26 IST">
+      <class name="testscripts.TC_LGN_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_LGN_001@544fe44c]" name="setup" is-config="true" duration-ms="4461" started-at="2021-04-25T12:07:35 IST" finished-at="2021-04-25T12:07:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_LGN_001()[pri:0, instance:testscripts.TC_LGN_001@544fe44c]" name="TC_LGN_001" duration-ms="159" started-at="2021-04-25T12:07:40 IST" finished-at="2021-04-25T12:07:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LGN_001 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testscripts.TC_LGN_001@544fe44c]" name="teardown" is-config="true" duration-ms="3148" started-at="2021-04-25T12:07:40 IST" finished-at="2021-04-25T12:07:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testscripts.TC_LGN_001 -->
+      <class name="testscripts.TC_LGN_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_LGN_002@66480dd7]" name="setup" is-config="true" duration-ms="2897" started-at="2021-04-25T12:07:43 IST" finished-at="2021-04-25T12:07:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_LGN_002()[pri:0, instance:testscripts.TC_LGN_002@66480dd7]" name="TC_LGN_002" duration-ms="5527" started-at="2021-04-25T12:07:46 IST" finished-at="2021-04-25T12:07:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LGN_002 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testscripts.TC_LGN_002@66480dd7]" name="teardown" is-config="true" duration-ms="3152" started-at="2021-04-25T12:07:51 IST" finished-at="2021-04-25T12:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testscripts.TC_LGN_002 -->
+      <class name="testscripts.TC_HM_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_HM_001@52a86356]" name="setup" is-config="true" duration-ms="2846" started-at="2021-04-25T12:07:54 IST" finished-at="2021-04-25T12:07:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_HM_001()[pri:0, instance:testscripts.TC_HM_001@52a86356]" name="TC_HM_001" duration-ms="8064" started-at="2021-04-25T12:07:57 IST" finished-at="2021-04-25T12:08:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_HM_001 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testscripts.TC_HM_001@52a86356]" name="teardown" is-config="true" duration-ms="3150" started-at="2021-04-25T12:08:05 IST" finished-at="2021-04-25T12:08:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testscripts.TC_HM_001 -->
+      <class name="testscripts.TC_HM_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testscripts.TC_HM_003@5ce81285]" name="setup" is-config="true" duration-ms="2918" started-at="2021-04-25T12:08:08 IST" finished-at="2021-04-25T12:08:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_HM_003()[pri:0, instance:testscripts.TC_HM_003@5ce81285]" name="TC_HM_003" duration-ms="11768" started-at="2021-04-25T12:08:11 IST" finished-at="2021-04-25T12:08:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_HM_003 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testscripts.TC_HM_003@5ce81285]" name="teardown" is-config="true" duration-ms="3157" started-at="2021-04-25T12:08:23 IST" finished-at="2021-04-25T12:08:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testscripts.TC_HM_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
